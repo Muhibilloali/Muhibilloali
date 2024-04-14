@@ -3,9 +3,9 @@
 - 🌱 I’m currently learning react.js, next.js, typescripct ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
-- 🚀 https://t.me/Muhibillo_2000;
+- 🚀 Telegram link: https://t.me/Muhibillo_2000;
 - 📨 Email: "muhibilloabduqahhiriv50@gmail.com"
-- 📸 Instagram-link "muhibillo_ali"
+- 📸 Instagram-link "[muhibillo_ali](https://www.instagram.com/muhibillo_ali/)"
 
 
 <!---

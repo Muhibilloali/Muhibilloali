@@ -4,8 +4,7 @@
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
 - 🚀 Telegram link: https://t.me/Muhibillo_2000;
-- 📨 Email: "muhibilloabduqahhiriv50@gmail.com"
-- https://mail.google.com/mail/u/0/#inbox
+- 📨 Email: "muhibilloabduqahhiriv50@gmail.com";
 - 📸 Instagram link "[muhibillo_ali](https://www.instagram.com/muhibillo_ali/)"
 
 

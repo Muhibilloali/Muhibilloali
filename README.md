@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Muhibilloali
-- 👀 I’m interested in programming
+- 👀 I'm interested in writing code
 - 🌱 I’m currently learning react.js, next.js, typescripct ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me:
